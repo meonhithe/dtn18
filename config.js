@@ -1,0 +1,31 @@
+var config = {
+    texts: [
+        "Em ơi",      
+        "Nhỏ xinh ơi", 
+        "Nay em tròn 21 tuổi rồi này",
+        "Nhanh thật á :>",
+        "Tuổi 20 của em thế nào á?",
+        "Có nhiều điều khiến em hạnh phúc không?",
+        "Còn điều gì khiến em đắn đo nữa á",
+        "Tuổi 20 của em á",
+        "Em đã nỗ lực rất nhiều",
+        "Em là một con người đáng iuu",
+        "và là một người luông lắng nghe anh nữa.",
+        "Chúc em á, sinh nhật vui vẻ :>",
+        "Hạnh phúc, mạnh khỏe",
+        "Dù có thế nào thì anh vẫn ở đây",
+        "bên cạnh em á",
+        "Yêu em",
+        "Nhỏ xinh của anh",
+    ],
+    desc: {
+        turn_on: "Hi :>/>",
+        play: "Let's play",
+        bannar_coming: "Huh?",
+        balloons_flying: "Huh_huh?",
+        cake_fadein: "UwwU",
+        light_candle: "OwwO",
+        wish_message: "Little luna:>",
+        story: "A MESSAGE FOR YOU",
+    }
+};
